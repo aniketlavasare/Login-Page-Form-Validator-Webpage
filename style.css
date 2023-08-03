@@ -65,7 +65,7 @@ h2{
 }
 
 .form-control.success input{
-    border-color: var(--success-color);;
+    border-color: var(--success-color);
 
 }
 
